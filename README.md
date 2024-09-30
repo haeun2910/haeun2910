@@ -7,13 +7,13 @@
 
  
 ## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
+<div >
     <a href="https://www.instagram.com/hanh.ng29/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
 </div>
-<div style="display:flex; flex-direction:row;">
-    <a value="hanh291029@naver.com">
+<div>
+    <a>
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
     </a>
 </div>
