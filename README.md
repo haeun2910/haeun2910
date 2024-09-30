@@ -8,12 +8,12 @@
  
 ## 📞 Contact 📞
 <div >
-    <a href="https://www.instagram.com/hanh.ng29/">
+    <a href="https://www.instagram.com/hanh.ng29/" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
 </div>
 <div>
- <a href="https://www.facebook.com/hanh2910/">
+ <a href="https://www.facebook.com/hanh2910/" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
  </a>
 </div>
