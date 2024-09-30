@@ -14,7 +14,7 @@
 </div>
 <div style="display:flex; flex-direction:row;">
     <a>
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> : hanh291029@naver.com
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> hanh291029@naver.com
     </a>
 </div>
 
